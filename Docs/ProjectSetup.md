@@ -1,5 +1,13 @@
 # Project Setup
 
+Follow these steps to set up your project with MarrowSDK:
+
+1. Clone the repository.
+2. Open the project in Unity.
+3. Install the required dependencies.
+
+For more details, visit the [wiki](https://github.com/StressLevelZero/MarrowSDK/wiki/ProjectSetup).
+
 Requirements
 ---
 * Unity Version `2021.3.16f1`

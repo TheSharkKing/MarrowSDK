@@ -1,4 +1,8 @@
-# <img src="./Images/zone-icon.png" valign="middle" style="padding-bottom: 4px"> Zone Music
+# Zone Music
+
+This section will cover how to set up zone-specific music.
+
+For more details, refer to the [Zone Setup Guide](./ZoneSetup.md).
 
 <img src="./Images/icon_marrow_video.png" valign="middle" style="margin: 0px 5px 5px 0px"/> <a href="https://www.youtube.com/watch?v=mymCH_LsDfA"><font size="5">Zone Music and Zone Ambience Tutorial Video</font></a> 
 

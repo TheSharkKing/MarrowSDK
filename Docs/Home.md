@@ -1,3 +1,11 @@
+# Home
+
+Welcome to the MarrowSDK documentation!
+
+## Getting Started
+
+Check out the [Project Setup Guide](./ProjectSetup.md) to get started with MarrowSDK.
+
 # MarrowSDK
 Welcome to the MarrowSDK Wiki.  This is a public resource containing usage documentation for the MarrowSDK.
 

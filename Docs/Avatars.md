@@ -1,4 +1,8 @@
-# ![Icon](Images/crate-avatar.png) Avatar Crates
+# Avatars
+
+![Avatar Pose Mode](./Images/Avatar/avatar_pose_mode.png)
+
+Learn how to set up and customize avatars in MarrowSDK.
 
 Avatars alter the player's appearance, size, strength and speed.
 

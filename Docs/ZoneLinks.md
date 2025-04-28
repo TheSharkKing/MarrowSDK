@@ -1,7 +1,6 @@
-# <img src="./Images/zone-icon.png" valign="middle" style="padding-bottom: 4px"> Zone Links
+# Zone Links
 
-<img src="./Images/icon_marrow_video.png" valign="middle" style="margin: 0px 5px 5px 0px"/> <a href="https://www.youtube.com/watch?v=6eQvmlrKb_k"><font size="5">Zone Creation and Linking Tutorial Video</font></a> 
-
+ToDo - add [YouTube tutorial on Zone Linking](https://www.youtube.com/placeholder-link).
 
 ## Creating Zones with Zone Links
 

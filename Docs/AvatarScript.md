@@ -1,5 +1,8 @@
-# Avatar Script Detailed Completion
-In-depth documentation on setting up Marrow Avatars will go here (examples that match the fidelity of BL Avatars with extra bones, extra tips on fine-tuning, etc.).
+# Avatar Script
+
+In-depth documentation on setting up Marrow Avatars will go here.
+
+For now, refer to the [Avatars Guide](./Avatars.md).
 
 #### Avatar Required Settings
 Settings required for the avatar to function.

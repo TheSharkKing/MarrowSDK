@@ -8,18 +8,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Added
 
- - Fixtures: DataCard representing Spawnables pinned to the world
- - Backlot Fixtures: Buttons, Switch, Lever, Slider, Airlock Door
- - AssetWarehouse Drag And Drop: Drag and Drop Spawnables and Fixtures straight from the warehouse into your scene!
- - Circuits: Wiring needed to connect fixtures together
- - Circuit Nodes: Add, Multiply, Remap, Value, FlipFlip, Xor
- - EntityPose: DataCard for posing entities, use these with Circuit Fixtures to set their initial state
-
-### Changed
-
-
-### Fixed
-
+- Fixtures: DataCard representing Spawnables pinned to the world
+- Backlot Fixtures: Buttons, Switch, Lever, Slider, Airlock Door
+- AssetWarehouse Drag And Drop: Drag and Drop Spawnables and Fixtures straight from the warehouse into your scene!
+- Circuits: Wiring needed to connect fixtures together
+- Circuit Nodes: Add, Multiply, Remap, Value, FlipFlip, Xor
+- EntityPose: DataCard for posing entities, use these with Circuit Fixtures to set their initial state
 
 ### Known Issues
 

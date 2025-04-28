@@ -16,5 +16,8 @@ Select this folder (do not open it) and then, in the **File / Home / Share / Vie
 
 ![packpallet](./Images/BuildPallet/mod_share_zip.png)
 
+# Sharing Packed Content
+
+Once your content is packed, you can share it with others. Ensure the process completes successfully before distribution.
 
 Click the **Zip** button to compress this folder and all of its contents into a single zip file with its folder structure intact.  This file is what should be uploaded to distribution sites like Mod.io.

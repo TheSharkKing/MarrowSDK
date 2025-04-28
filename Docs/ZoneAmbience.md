@@ -1,4 +1,8 @@
-# <img src="./Images/zone-icon.png" valign="middle" style="padding-bottom: 4px"> Zone Ambience
+# Zone Ambience
+
+This section will cover how to set up zone-specific ambience.
+
+For more details, refer to the [Zone Setup Guide](./ZoneSetup.md).
 
 <img src="./Images/icon_marrow_video.png" valign="middle" style="margin: 0px 5px 5px 0px"/> <a href="https://www.youtube.com/watch?v=mymCH_LsDfA"><font size="5">Zone Music and Zone Ambience Tutorial Video</font></a> 
 
@@ -24,4 +28,4 @@ Note that the Zone Ambience’s Reverb Settings make Unity’s built-in Reverb Z
 - It is highly recommended to layer ambience throughout all parts of your level to add depth and character to it.  However, if you really need ambient audio to be silent after a Zone Ambience has been triggered, simply add a Zone Ambience where you need silence, give it a valid <i>Ambient Track</i> and then set the <i>Volume</i> to zero.
 
 ### Best Practice Tip:  Set Zone Ambience items for every Zone
-- If the same track is listed in other Zones, the current Ambient Track will continue to play without interruption.  
+- If the same track is listed in other Zones, the current Ambient Track will continue to play without interruption.

@@ -1,4 +1,10 @@
-# <img src="./Images/zone-icon.png" valign="middle" style="padding-bottom: 4px"> Zone Events
+# Zone Events
+
+This section will cover advanced usage of zone events.
+
+Stay tuned for updates!
+
+<img src="./Images/zone-icon.png" valign="middle" style="padding-bottom: 4px"> Zone Events
 
 <img src="./Images/icon_marrow_video.png" valign="middle" style="margin: 0px 5px 5px 0px"/> <a href="https://www.youtube.com/watch?v=mckRH8cNSRU"><font size="5">Zone Events and Level Loading Tutorial Video</font></a> 
 

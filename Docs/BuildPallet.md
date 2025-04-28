@@ -11,6 +11,9 @@ The Pallet Packing process bundles the contents of your Pallet into a usable mod
 
 ![Image](Images/BuildPallet/pack_pallet_inspector.png)
 
+# Build Pallet
+
+Ensure the directory structure is correct before building your pallet.
 
 # Installing Built Mods Locally to PC or Quest
 

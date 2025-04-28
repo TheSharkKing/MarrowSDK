@@ -1,11 +1,10 @@
 # MarrowSDK
 
-To Setup the SDK, check out [the wiki](https://github.com/StressLevelZero/MarrowSDK/wiki/ProjectSetup).
-
-
-
+To set up the SDK, check out [the wiki](https://github.com/StressLevelZero/MarrowSDK/wiki/ProjectSetup).
 
 # Changelog
+
+For the full changelog, see [CHANGELOG.md](./CHANGELOG.md).
 
 ## [1.2.0]
 
